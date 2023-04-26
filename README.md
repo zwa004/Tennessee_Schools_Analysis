@@ -5,10 +5,13 @@ Analyses Will Include:
 
 1 Participation across years, grade levels, race, advantage/disadvantage, etc.
 
-2 Score performance across years, grade levels, race, advantage/disadvangage status, etc.  
+2 Score performance across grade levels, race, advantage/disadvangage status, etc.  
 
-3 Achievement gaps
+3 School performance 
 
 4 District performance
 
-5 School performance 
+5 Identifying achievement gaps between subgroups across the state
+
+Tools used: Python (pandas, numpy, sqlite, matplotlib, scikit learn), Tableau, and postgreSQL
+Methodologies used: regression analysis
