@@ -3,7 +3,11 @@ This project will serve to examine high school TCAP EOC testing for the state of
 
 Analyses Will Include:
 1 Participation across years, grade levels, race, advantage/disadvantage, etc.
+
 2 Score performance across years, grade levels, race, advantage/disadvangage status, etc.  
+
 3 Achievement gaps
+
 4 District performance
+
 5 School performance 
